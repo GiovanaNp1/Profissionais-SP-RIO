@@ -6,7 +6,7 @@ Divulgação disponvel em [https://github.com/GiovanaNp1/Profissionais-SP-RIO/is
 
 ### Cadastrando sobre seu perfil aqui
 
-[Abra uma **issue**](https://github.com/GiovanaNp1/vagas-TI-SP-RJ/vagas/issues/new/choose) e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido o seu nome e nome da seu cargo em questão.
+[Abra uma **issue**](https://github.com/GiovanaNp1/Profissionais-SP-RIO/issues) e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido o seu nome e nome da seu cargo em questão.
 
 Exemplo: `[São Paulo - SP] Giovana Nascimento - [SEU CARGO]`
 
