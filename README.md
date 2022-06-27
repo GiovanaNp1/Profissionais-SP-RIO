@@ -18,6 +18,10 @@ Informe quais _labels_ devemos adicionar, contendo o nível de experiência dese
 
 Você pode receber atualizações no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
+## Como recrutadores podem ver e trazer talentos para seus times
+
+Você pode receber atualizações no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil. Também é possivel dentro de uma Issue entrar nela e comentar sobre vagas em questões para aquele profissional, basta ir na issue e falar no comentario sobre a vaga em questão. Caso possue duvidas, entre em contato com https://www.linkedin.com/in/giovana-do-nascimento/
+
 ### Outros repositórios de vagas
 
 #### Por área
